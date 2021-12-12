@@ -169,6 +169,7 @@ button_tag_del.clicked.connect(del_tag)
 button_tag_search.clicked.connect(search_tag)
 
 
+
 notes_win.show()
  
 with open("notes_data.json", "r") as file:
